@@ -1,3 +1,3 @@
-{
-  base: "/demo-particle-morphing/";
-}
+export default {
+  base: "/demo-particle-morphing/",
+};
